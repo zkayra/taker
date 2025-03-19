@@ -1901,3 +1901,12 @@
 3/19/2025 | 8:16:49 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/19/2025 | 8:16:49 AM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
 3/19/2025 | 8:16:55 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8e8ea851ea5ff5ba085e1bc8fe4d7e3e6e46fdd82618fbef53bae17c8bc5bc03 
+3/19/2025 | 12:23:53 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/19/2025 | 12:23:53 PM | INFO | Start process for wallet 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+3/19/2025 | 12:23:54 PM | INFO | Trying To Login for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+3/19/2025 | 12:23:55 PM | INFO | Login successful... 
+3/19/2025 | 12:23:55 PM | INFO | Trying to check user info... 
+3/19/2025 | 12:23:55 PM | INFO | User ID: 102601282 | Twitter: @kayrazerliana | Total Points: 720000 
+3/19/2025 | 12:23:55 PM | INFO | Trying to check user miner status... 
+3/19/2025 | 12:23:56 PM | INFO | Last mining time: 3/19/2025, 8:16:54 AM
+3/19/2025 | 12:23:56 PM | WARN | Mining already started, next mining time is: 3/20/2025, 8:16:54 AM
