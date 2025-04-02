@@ -2702,3 +2702,13 @@
 4/2/2025 | 12:24:48 PM | INFO | Trying to check user miner status... 
 4/2/2025 | 12:24:48 PM | INFO | Last mining time: 4/2/2025, 1:01:00 AM
 4/2/2025 | 12:24:48 PM | WARN | Mining already started, next mining time is: 4/3/2025, 1:01:00 AM
+4/2/2025 | 4:15:58 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/2/2025 | 4:15:58 PM | INFO | Start process for wallet 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+4/2/2025 | 4:15:59 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 4:15:59 PM | WARN | Retrying... (2 attempts left) 
+4/2/2025 | 4:16:02 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 4:16:02 PM | WARN | Retrying... (1 attempts left) 
+4/2/2025 | 4:16:05 PM | ERROR | Failed to get nonce: Request failed with status code 521
+4/2/2025 | 4:16:05 PM | WARN | Retrying... (0 attempts left) 
+4/2/2025 | 4:16:09 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
+4/2/2025 | 4:16:09 PM | ERROR | Failed to retrieve nonce for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
