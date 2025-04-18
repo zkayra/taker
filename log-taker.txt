@@ -3570,3 +3570,16 @@
 4/17/2025 | 4:16:17 PM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
 4/17/2025 | 4:18:31 PM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 4:18:31 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:13:44 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:13:44 PM | INFO | Start process for wallet 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+4/17/2025 | 8:13:44 PM | INFO | Trying To Login for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+4/17/2025 | 8:13:45 PM | INFO | Login successful... 
+4/17/2025 | 8:13:45 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:13:46 PM | INFO | User ID: 102601282 | Twitter: @kayrazerliana | Total Points: 1320000 
+4/17/2025 | 8:13:46 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:13:49 PM | INFO | Last mining time: 4/15/2025, 12:25:15 PM
+4/17/2025 | 8:13:49 PM | INFO | Trying to start Mining for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+4/17/2025 | 8:13:58 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:13:58 PM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+4/17/2025 | 8:13:58 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:13:58 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
