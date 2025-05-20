@@ -5437,3 +5437,15 @@
 5/20/2025 | 8:18:40 AM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
 5/20/2025 | 8:18:42 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5a","from":"0x7cc410cb2b0db76ae8d042f5a584a05d054fac27","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/20/2025 | 8:18:42 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/20/2025 | 12:27:08 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 12:27:08 PM | INFO | Start process for wallet 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/20/2025 | 12:27:09 PM | INFO | Trying To Login for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/20/2025 | 12:27:10 PM | INFO | Login successful... 
+5/20/2025 | 12:27:10 PM | INFO | Trying to check user info... 
+5/20/2025 | 12:27:10 PM | INFO | User ID: 102601282 | Twitter: @kayrazerliana | Total Points: 2016000 
+5/20/2025 | 12:27:10 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 12:27:11 PM | INFO | Last mining time: 5/19/2025, 4:21:30 AM
+5/20/2025 | 12:27:11 PM | INFO | Trying to start Mining for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/20/2025 | 12:27:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 12:27:12 PM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/20/2025 | 12:27:23 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8da6c35a05356b77f720ada0cdf042de6dc8ec6182157aee08c0e11fe1ae5436 
