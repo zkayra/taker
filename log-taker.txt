@@ -5489,3 +5489,12 @@
 5/21/2025 | 4:17:21 AM | INFO | Trying to activate mining on-chain for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
 5/21/2025 | 4:17:22 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x27","from":"0x7cc410cb2b0db76ae8d042f5a584a05d054fac27","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/21/2025 | 4:17:22 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/21/2025 | 8:17:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 8:18:00 AM | INFO | Start process for wallet 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/21/2025 | 8:18:01 AM | INFO | Trying To Login for wallet: 0x7cC410Cb2B0db76ae8d042f5A584A05d054FAc27 
+5/21/2025 | 8:18:02 AM | INFO | Login successful... 
+5/21/2025 | 8:18:02 AM | INFO | Trying to check user info... 
+5/21/2025 | 8:18:02 AM | INFO | User ID: 102601282 | Twitter: @kayrazerliana | Total Points: 2064000 
+5/21/2025 | 8:18:02 AM | INFO | Trying to check user miner status... 
+5/21/2025 | 8:18:03 AM | INFO | Last mining time: 5/20/2025, 12:27:18 PM
+5/21/2025 | 8:18:03 AM | WARN | Mining already started, next mining time is: 5/21/2025, 12:27:18 PM
